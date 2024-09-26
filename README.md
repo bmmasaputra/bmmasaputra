@@ -1,3 +1,5 @@
+![MasterHead](https://raw.githubusercontent.com/bmmasaputra/bmmasaputra/main/banner.png)
+
 ### Hi!👋 I’m Bima Agung Saputra
 
 I'm currently majoring computer science at University of Palangka Raya
